@@ -1,7 +1,21 @@
 ### Hi there 👋
+---
+### 🌱 I’m currently learning ...
+- Metaverse, XR(VR+AR), Unity, OPC UA
+- IT Convergence System ( Energy / Power / Building)
+- Optimization
+- Decision Supporting System
+- Statistical Analysis, Prediction and Data Mining
+- Prognostics and Health Management
+
+### 💬 Ask me about ...
+- Software Architecture Design
+- Event-Driven Architecture
+- Distributed Systems
+- Micro Service Architecture
 
 <!--
-**bit4meInUVC/bit4meInUVC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bit4me/bit4me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
