@@ -1,5 +1,10 @@
 ### Hi there 👋
 ---
+### 🔭 I’m currently working on ...
+- [UVC Co.,Ltd.](https://uvc.co.kr/en/index.html)
+  - As a member of the OPC UA Foundation, UVC Co., Ltd. is a technology-oriented company that develops the CPS platform for the smart factory part,
+which has obtained 3 international certifications for the first time in Korea.
+
 ### 🌱 I’m currently learning ...
 - Metaverse, XR(VR+AR), Unity, OPC UA
 - IT Convergence System ( Energy / Power / Building)
